@@ -1,5 +1,4 @@
-# jpmorgan-quant-research
-# task 1 - prototype pricing model
+# prototype pricing model
 
 ## Objective
 Creation of a Prototype Pricing Model that analyzes data to take a date as input and return a price for past and future estimates of the price of natural gas.
