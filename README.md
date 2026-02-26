@@ -1,4 +1,4 @@
-# prototype pricing model
+# Prototype Pricing Model
 
 ## Objective
 Creation of a Prototype Pricing Model that analyzes data to take a date as input and return a price for past and future estimates of the price of natural gas.
