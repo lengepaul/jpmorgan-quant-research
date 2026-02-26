@@ -1,6 +1,20 @@
 # jpmorgan-quant-research
+# task 1 - prototype pricing model
 
-This is the first task of my JPMorgan Quantitative Research Job Simulation.
+## Objective
+Creation of a Prototype Pricing Model that analyzes data to take a date as input and return a price for past and future estimates of the price of natural gas.
 
-I created a Prototype Pricing Model by writing a function that takes particular inputs and gives back the value of a contract.
+## Tools & Skills
+Python, Pandas, NumPy, Matplotlib, scikit-learn, Jupyter Notebook
+
+## Approach
+- Data cleaning/sorting
+- Exploratory analysis
+- Modeling 
+- Evaluation
+
+
+## Key Insights
+• Upward drift of prices from 2021–2024
+• Higher price of gas during winter months and lower during summer.
 
