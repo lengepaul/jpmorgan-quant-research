@@ -15,5 +15,6 @@ Python, Pandas, NumPy, Matplotlib, scikit-learn, Jupyter Notebook
 
 ## Key Insights
 • Upward drift of prices from 2021–2024
+
 • Higher price of gas during winter months and lower during summer.
 
